@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
+## AHAMISI KANBAN 1.0
+Fully Functional Kanban Daily Routine App made with Angular
+<img width="1440" alt="mykanban" src="https://user-images.githubusercontent.com/42498219/200563732-d35caff2-47aa-4fb6-8d7d-82c5a294dc53.png">
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
